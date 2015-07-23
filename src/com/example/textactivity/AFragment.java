@@ -14,7 +14,7 @@ public class AFragment extends Fragment {
 	public void onAttach(Activity activity) {
 		Log.i("..AFragment","onAttach");
 		super.onAttach(activity);
-	}
+	}   
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
