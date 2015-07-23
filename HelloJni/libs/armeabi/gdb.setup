@@ -1,0 +1,2 @@
+set solib-search-path /home/san/Desktop/project/hello-jni/obj/local/armeabi
+directory /home/san/Downloads/android-ndk-r6b/platforms/android-8/arch-arm/usr/include /home/san/Downloads/android-ndk-r6b/sources/cxx-stl/system/include /home/san/Desktop/project/hello-jni/jni
